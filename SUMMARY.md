@@ -93,4 +93,4 @@ ____
     * [EXP - LN - LOG10 - POTENCIA - RAIZ - RESIDUO](exp__ln__log10__potencia__raiz__residuo.md)
     * [PAGO -TASA - NPER - VA - VF](pago_tasa__nper__va__vf.md)
     * [Mensajes de error más habituales](mensajes_de_error_ms_habituales.md)
-* [Créditos](crditos5.md){% include "git+https://github.com/catedu/libreOffice-la-suite-ofimatica-libre.git/SUMMARY.md" %}
+* [Créditos](crditos5.md)
