@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/libreOffice-la-suite-ofimatica-libre.git/aspecto_del_encabezado_o_pie.md" %}

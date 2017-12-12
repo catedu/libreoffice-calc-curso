@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/libreOffice-la-suite-ofimatica-libre.git/encabezados_y_pies_de_pgina.md" %}

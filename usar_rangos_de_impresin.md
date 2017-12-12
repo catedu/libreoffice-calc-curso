@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/libreOffice-la-suite-ofimatica-libre.git/usar_rangos_de_impresin.md" %}

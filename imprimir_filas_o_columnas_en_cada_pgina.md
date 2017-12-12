@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/libreOffice-la-suite-ofimatica-libre.git/imprimir_filas_o_columnas_en_cada_pgina.md" %}

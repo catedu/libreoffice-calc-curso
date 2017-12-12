@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/libreOffice-la-suite-ofimatica-libre.git/contraer_texto_para_ajustarse_a_la_celda.md" %}

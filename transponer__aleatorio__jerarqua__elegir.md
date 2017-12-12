@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/libreOffice-la-suite-ofimatica-libre.git/transponer__aleatorio__jerarqua__elegir.md" %}

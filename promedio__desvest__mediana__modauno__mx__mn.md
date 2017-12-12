@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/libreOffice-la-suite-ofimatica-libre.git/promedio__desvest__mediana__modauno__mx__mn.md" %}

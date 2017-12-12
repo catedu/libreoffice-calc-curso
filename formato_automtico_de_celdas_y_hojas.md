@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/libreOffice-la-suite-ofimatica-libre.git/formato_automtico_de_celdas_y_hojas.md" %}
