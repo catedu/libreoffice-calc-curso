@@ -1,1 +1,1 @@
-{% include "git+https://github.com/catedu/libreOffice-la-suite-ofimatica-libre.git/crditos5.md" %}
+{% include "git+https://github.com/catedu/faq-aularagon.git/imagenes_creditos.md" %}
